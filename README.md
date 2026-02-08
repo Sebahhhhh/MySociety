@@ -37,9 +37,7 @@ Cloud Storage.
 
 ## Use Case Diagram:
 https://yuml.me/69b9d2e2.svg
-https://yuml.me/69b9d2e2.png
-
-
+<img width="2075" height="1273" alt="69b9d2e2" src="https://github.com/user-attachments/assets/0ee68ed4-4b68-4494-a6fb-8a0624115682" />
 
 
 
