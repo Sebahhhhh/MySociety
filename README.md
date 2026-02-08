@@ -31,13 +31,15 @@ Cloud Storage.
 ## Requisiti: 
 
 --
-
-## Use Case Diagram:
-https://yuml.me/69b9d2e2.svg
-
 ## Competitors:
 
 <img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
+
+## Use Case Diagram:
+https://yuml.me/69b9d2e2.svg
+https://yuml.me/69b9d2e2.png
+
+
 
 
 
