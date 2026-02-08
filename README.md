@@ -41,25 +41,25 @@ https://society-sync-platform.lovable.app
 
 ## WBS   
 **1.0 PIANIFICAZIONE (1 sett.)**  
-   ‎ ‎   1.1 Requisiti + Use Case  
-   ‎ ‎   1.2 Diagramma Gantt + Risorse  
-   ‎ ‎   1.3 Deliverable: Piano completo Progetto  
+   ‎ ‎ &nbsp;  1.1 Requisiti + Use Case  
+   ‎ ‎ &nbsp;  1.2 Diagramma Gantt + Risorse  
+   ‎ ‎ &nbsp;  1.3 Deliverable: Piano completo Progetto  
 **2.0 DESIGN (2 sett.)**  
-   ‎ ‎   2.1 Database   
-  ‎ ‎    2.2 Flusso Utente   
-  ‎ ‎    2.3 Deliverable: Prototipo UI/UX (con figma)  
+   ‎ ‎ &nbsp;  2.1 Database   
+  ‎ ‎  &nbsp;  2.2 Flusso Utente   
+  ‎ ‎  &nbsp;  2.3 Deliverable: Prototipo UI/UX (con figma)  
 **3.0 SVILUPPO (5 sett.)**  
-   ‎ ‎   3.1 Backend   
-   ‎ ‎   3.2 Frontend Mobile  
-   ‎ ‎   3.3 Integrazioni (pagamenti, notifiche)  
-  ‎ ‎    3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
+   ‎ ‎ &nbsp;  3.1 Backend   
+   ‎ ‎  &nbsp; 3.2 Frontend Mobile  
+   ‎ ‎  &nbsp; 3.3 Integrazioni (pagamenti, notifiche)  
+  ‎ ‎   &nbsp;3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
 **4.0 TEST + LANCIO (2 sett.)**  
-    ‎ ‎  4.1 Test Unitari + Integrazione  
-    ‎ ‎  4.2 Beta Testing + Bug Fix  
-    ‎ ‎  4.3 Deploy App Store + Dominio  
-   ‎ ‎   4.4 Deliverable: App Live  
+    ‎ ‎ &nbsp;ㅤㅤㅤㅤㅤㅤㅤ 4.1 Test Unitari + Integraziㅤone  
+    ‎ ‎&nbsp; ㅤㅤㅤㅤㅤ 4.2 Beta Testing + Bug Fix  
+    ‎ ‎ &nbsp; 4.3 Deploy App Store + Dominio  
+   ‎ ‎  &nbsp; 4.4 Deliverable: App Live  
 **5.0 CHIUSURA**  
-   ‎ ‎   5.1 Pubblicità  
+   ‎ ‎ &nbsp;  5.1 Pubblicità  
    
 
 
