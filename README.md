@@ -1,23 +1,24 @@
 
 
-Titolo: 
+##Titolo: 
 MySociety
 
-Descrizione: 
+##Descrizione: 
 mySociety è un’applicazione mobile innovativa pensata per rendere semplice e intuitiva la gestione delle associazioni e società di ogni tipo, dalle realtà sportive e culturali fino ai gruppi scolastici, musicali o di volontariato. L’app si basa su un sistema di registrazione flessibile, pensato sia per i singoli utenti sia per chi amministra una società. Ogni persona, una volta creata la propria utenza, può iscriversi liberamente a più società contemporaneamente, semplicemente inserendo un codice o seguendo un link di invito fornito dai responsabili. In questo modo, l’utente può passare facilmente da un gruppo all’altro, mantenendo sempre tutto organizzato all’interno della stessa applicazione.
 All’interno di ciascuna società, l’utente può consultare la bacheca digitale, dove vengono pubblicati avvisi e comunicazioni ufficiali, oltre a poter visualizzare il calendario con eventi, riunioni o attività programmate. Tutto è pensato per favorire trasparenza, ordine e partecipazione attiva. Ogni membro può conoscere i ruoli degli altri iscritti, scoprire i prossimi appuntamenti e restare costantemente aggiornato sulle decisioni o le novità del proprio gruppo.
 Parallelamente, i gestori o amministratori delle società dispongono di un vero e proprio pannello gestionale, attraverso il quale possono organizzare l’intera struttura dell’associazione in maniera chiara e gerarchica. Possono inserire nuovi membri, creare sottosezioni o sottosocietà autonome (ad esempio per diverse squadre o gruppi interni), impostare ruoli e permessi personalizzati, inviare comunicazioni e avere accesso a un gestionale facile e intuitivo per tenere traccia delle varie quote associative di ogni associato, controllando pagamenti e scadenze in tempo reale. La piattaforma, inoltre, consente di far circolare automaticamente gli annunci generali verso tutte le sottosocietà collegate, garantendo una comunicazione coerente e immediata lungo tutta la catena organizzativa.
 Per creare una Associazione/Società bisogna sottoiscrevere un abbonamento Mensile o Annuale dove in base al numero di associati, sottoassociazioni e plugin con funzionalità avanzate.
 Questo approccio garantisce sostenibilità e permette di sviluppare costantemente nuove soluzioni dedicate alle esigenze del mondo associativo. 
 
-Problema: 
+##Problema: 
 nasce per risolvere la gestione frammentata e confusa tipica di molte associazioni che ancora si affidano a Excel, chat whatsapp per comunicazioni con gli associatri e email separate per organizzare iscrizioni, quote e comunicazioni. Questi metodi portano facilmente a errori, ritardi, dati non aggiornati e perdita di tempo.
 L’app centralizza tutto in un unico ambiente digitale accessibile da smartphone: soci, pagamenti, eventi, annunci e sottosocietà vengono gestiti in modo ordinato e condiviso. In questo modo le associazioni migliorano la comunicazione interna, risparmiano tempo e mantengono sempre sotto controllo la propria organizzazione.
 
-Target: Società e Associazioni di piccole, medie dimensioni. Specializzata per società sportive, ma utile anche a circoli e comitati che hanno esigenze di gestire in maniera comoda quote, ed eventi. 
+##Target: Società e Associazioni di piccole, medie dimensioni. Specializzata per società sportive, ma utile anche a circoli e comitati che hanno esigenze di gestire in maniera comoda quote, ed eventi. 
 
-Competitors:
-<img width="1113" height="454" alt="immagine" src="https://github.com/user-attachments/assets/38728b2c-a88c-4d24-93e0-275446e13ee5" />
+##Competitors:
+<img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
+
 
 
 
