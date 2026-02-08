@@ -20,12 +20,12 @@ Società e Associazioni di piccole, medie dimensioni. Specializzata per società
 "La Società sempre sotto il tuo controllo"
 
 # Tecnologie Utilizzate:
-Frontend Mobile.
-Backend.
-Database
-Autenticazione.
-Cloud Storage.
-
+Frontend Mobile.  
+Backend.  
+Database. 
+Autenticazione.  
+Cloud Storage.  
+  
 # Requisiti: 
 -
 
@@ -39,27 +39,27 @@ https://yuml.me/69b9d2e2.svg
 ## Implementazione:
 https://society-sync-platform.lovable.app
 
-## WBS 
-**1.0 PIANIFICAZIONE (1 sett.)**
-   1.1 Requisiti + Use Case
-   1.2 Diagramma Gantt + Risorse
-   1.3 Deliverable: Piano completo Progetto
-**2.0 DESIGN (2 sett.)**
-   2.1 Database 
-   2.2 Flusso Utente 
-   2.3 Deliverable: Prototipo UI/UX (con figma)
-**3.0 SVILUPPO (5 sett.)**
-   3.1 Backend 
-   3.2 Frontend Mobile 
-   3.3 Integrazioni (pagamenti, notifiche)
-   3.4 Deliverable: MVP (Prodotto Minimo Funzionante)
-**4.0 TEST + LANCIO (2 sett.)**
-   4.1 Test Unitari + Integrazione
-   4.2 Beta Testing + Bug Fix
-   4.3 Deploy App Store + Dominio
-   4.4 Deliverable: App Live
-**5.0 CHIUSURA**
-   5.1 Pubblicità
+## WBS   
+**1.0 PIANIFICAZIONE (1 sett.)**  
+   1.1 Requisiti + Use Case  
+   1.2 Diagramma Gantt + Risorse  
+   1.3 Deliverable: Piano completo Progetto  
+**2.0 DESIGN (2 sett.)**  
+   2.1 Database   
+   2.2 Flusso Utente   
+   2.3 Deliverable: Prototipo UI/UX (con figma)  
+**3.0 SVILUPPO (5 sett.)**  
+   3.1 Backend   
+   3.2 Frontend Mobile  
+   3.3 Integrazioni (pagamenti, notifiche)  
+   3.4 Deliverable: MVP (Prodotto Minimo Funzionante)  
+**4.0 TEST + LANCIO (2 sett.)**  
+   4.1 Test Unitari + Integrazione  
+   4.2 Beta Testing + Bug Fix  
+   4.3 Deploy App Store + Dominio  
+   4.4 Deliverable: App Live  
+**5.0 CHIUSURA**  
+   5.1 Pubblicità  
    
 
 
