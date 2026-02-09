@@ -41,6 +41,9 @@ https://yuml.me/69b9d2e2.svg
 ## Implementazione:
 https://society-sync-platform.lovable.app
 
+## Elevator Pitch:
+https://telegra.ph/Elevator-Pitch---MySociety-02-09
+
 ## WBS   
 **1.0 PIANIFICAZIONE (1 sett.)**  
    ‎ &nbsp;‎ &nbsp;  1.1 Requisiti + Use Case  
