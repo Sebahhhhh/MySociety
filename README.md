@@ -27,7 +27,9 @@ Autenticazione.
 Cloud Storage.  
   
 # Requisiti: 
--
+https://docs.google.com/document/d/1xWKr9zPorj-nm3MxhnGaykbhv_UhUK95PsWAqKO3TZ0/edit?usp=sharing
+<img width="682" height="721" alt="immagine" src="https://github.com/user-attachments/assets/bfe2d356-4ebb-481f-9082-1b1cca473522" />
+
 
 # Competitors:
 <img width="807" height="325" alt="immagine" src="https://github.com/user-attachments/assets/86bc102e-dac2-4415-8b38-d2406ec006ff" />
