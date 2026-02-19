@@ -68,7 +68,6 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    
 # Cronoprogramma Progetto App
 
-gantt
     title WBS – Cronoprogramma Progetto (10 settimane)
     dateFormat  YYYY-MM-DD
     axisFormat  W%W
@@ -97,4 +96,3 @@ gantt
 
     section 5.0 · CHIUSURA
     Review finale + Documentazione :done,  p5a, 2025-03-17, 3d
-
