@@ -97,5 +97,4 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
     DELIVERABLE - App Live        :crit,    p4d, 2025-03-14, 1d
 
     section 5.0 CHIUSURA
-    Review + Documentazione       :done,    p5a, 2025-03-17, 3d
-```
+    Review + Documentazione       :done,    p5a, 2025-03-17, 3d```
