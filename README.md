@@ -68,31 +68,34 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    
 # Cronoprogramma Progetto App
 
-    title WBS – Cronoprogramma Progetto (10 settimane)
+    ```mermaid
+gantt
+    title WBS - Cronoprogramma Progetto (10 settimane)
     dateFormat  YYYY-MM-DD
     axisFormat  W%W
 
-    section 1.0 · PIANIFICAZIONE
-    Requisiti + Use Case          :active, p1a, 2025-01-06, 4d
-    Diagramma Gantt + Risorse     :        p1b, 2025-01-08, 3d
-    ◆ Piano completo Progetto     :crit,   p1d, 2025-01-10, 1d
+    section 1.0 PIANIFICAZIONE
+    Requisiti + Use Case          :active,  p1a, 2025-01-06, 4d
+    Diagramma Gantt + Risorse     :         p1b, 2025-01-08, 3d
+    DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-10, 1d
 
-    section 2.0 · DESIGN
-    Database                      :active, p2a, 2025-01-13, 5d
-    Flusso Utente                 :        p2b, 2025-01-15, 5d
-    ◆ Prototipo UI/UX (Figma)     :crit,   p2d, 2025-01-24, 1d
+    section 2.0 DESIGN
+    Database                      :active,  p2a, 2025-01-13, 5d
+    Flusso Utente                 :         p2b, 2025-01-15, 5d
+    DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-24, 1d
 
-    section 3.0 · SVILUPPO
-    Backend                       :active, p3a, 2025-01-27, 15d
-    Frontend Mobile               :        p3b, 2025-02-03, 15d
-    Integrazioni (pagamenti, push) :        p3c, 2025-02-10, 10d
-    ◆ MVP – Prodotto Minimo       :crit,   p3d, 2025-02-28, 1d
+    section 3.0 SVILUPPO
+    Backend                       :active,  p3a, 2025-01-27, 15d
+    Frontend Mobile               :         p3b, 2025-02-03, 15d
+    Integrazioni pagamenti e push :         p3c, 2025-02-10, 10d
+    DELIVERABLE - MVP             :crit,    p3d, 2025-02-28, 1d
 
-    section 4.0 · TEST + LANCIO
-    Test Unitari + Integrazione   :active, p4a, 2025-03-03, 5d
-    Beta Testing + Bug Fix        :        p4b, 2025-03-07, 5d
-    Deploy App Store + Dominio    :        p4c, 2025-03-10, 4d
-    ◆ App Live                    :crit,   p4d, 2025-03-14, 1d
+    section 4.0 TEST + LANCIO
+    Test Unitari + Integrazione   :active,  p4a, 2025-03-03, 5d
+    Beta Testing + Bug Fix        :         p4b, 2025-03-07, 5d
+    Deploy App Store + Dominio    :         p4c, 2025-03-10, 4d
+    DELIVERABLE - App Live        :crit,    p4d, 2025-03-14, 1d
 
-    section 5.0 · CHIUSURA
-    Review finale + Documentazione :done,  p5a, 2025-03-17, 3d
+    section 5.0 CHIUSURA
+    Review + Documentazione       :done,    p5a, 2025-03-17, 3d
+```
