@@ -68,31 +68,33 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
    
 # Cronoprogramma Progetto App
 
-Settimane →   1  2  3  4  5  6  7  8  9  10
-------------------------------------------------
+gantt
+    title WBS – Cronoprogramma Progetto (10 settimane)
+    dateFormat  YYYY-MM-DD
+    axisFormat  W%W
 
-1.0 Pianificazione
-Requisiti + Use Case      █
-Gantt + Risorse           █
-Piano completo Progetto   █
+    section 1.0 · PIANIFICAZIONE
+    Requisiti + Use Case          :active, p1a, 2025-01-06, 4d
+    Diagramma Gantt + Risorse     :        p1b, 2025-01-08, 3d
+    ◆ Piano completo Progetto     :crit,   p1d, 2025-01-10, 1d
 
-2.0 Design
-Database                     █  █
-Flusso Utente                █  █
-Prototipo UI/UX              █  █
+    section 2.0 · DESIGN
+    Database                      :active, p2a, 2025-01-13, 5d
+    Flusso Utente                 :        p2b, 2025-01-15, 5d
+    ◆ Prototipo UI/UX (Figma)     :crit,   p2d, 2025-01-24, 1d
 
-3.0 Sviluppo
-Backend                           █  █  █
-Frontend Mobile                      █  █  █
-Integrazioni                             █
+    section 3.0 · SVILUPPO
+    Backend                       :active, p3a, 2025-01-27, 15d
+    Frontend Mobile               :        p3b, 2025-02-03, 15d
+    Integrazioni (pagamenti, push) :        p3c, 2025-02-10, 10d
+    ◆ MVP – Prodotto Minimo       :crit,   p3d, 2025-02-28, 1d
 
-4.0 Test + Lancio
-Test Unitari + Integrazione                     █
-Beta Testing + Bug Fix                          █
-Deploy + Dominio                                   █
-App Live                                              █
+    section 4.0 · TEST + LANCIO
+    Test Unitari + Integrazione   :active, p4a, 2025-03-03, 5d
+    Beta Testing + Bug Fix        :        p4b, 2025-03-07, 5d
+    Deploy App Store + Dominio    :        p4c, 2025-03-10, 4d
+    ◆ App Live                    :crit,   p4d, 2025-03-14, 1d
 
-5.0 Chiusura
-Pubblicità                                              █
-
+    section 5.0 · CHIUSURA
+    Review finale + Documentazione :done,  p5a, 2025-03-17, 3d
 
