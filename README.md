@@ -70,7 +70,7 @@ https://telegra.ph/Elevator-Pitch---MySociety-02-09
 
 ```mermaid
 gantt
-title WBS - Cronoprogramma Progetto (10 settimane)
+title WBS - Cronoprogramma Progetto (8 settimane)
 dateFormat  YYYY-MM-DD
 axisFormat  W%W
 
