@@ -97,4 +97,4 @@ Deploy App Store + Dominio    :         p4c, 2025-02-26, 4d
 DELIVERABLE - App Live        :crit,    p4d, 2025-02-30, 1d
 
 section 5.0 CHIUSURA
-Review + Documentazione       :done,    p5a, 2025-02-31, 3d
+Test Finali       :done,    p5a, 2025-02-31, 3d
