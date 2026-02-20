@@ -77,18 +77,18 @@ axisFormat  W%W
 section 1.0 PIANIFICAZIONE
 Requisiti + Use Case          :active,  p1a, 2025-01-09, 4d
 Diagramma Gantt + Risorse     :         p1b, 2025-01-11, 3d
-DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-13, 1d
+DELIVERABLE - Piano Progetto  :crit,    p1d, 2025-01-14, 1d
 
 section 2.0 DESIGN
-Database                      :active,  p2a, 2025-01-14, 5d
-Flusso Utente                 :         p2b, 2025-01-17, 5d
+Database                      :active,  p2a, 2025-01-15, 5d
+Flusso Utente                 :         p2b, 2025-01-16, 5d
 DELIVERABLE - Prototipo Figma :crit,    p2d, 2025-01-23, 1d
 
 section 3.0 SVILUPPO
 Backend                       :active,  p3a, 2025-01-24, 15d
 Frontend Mobile               :         p3b, 2025-02-03, 15d
 Integrazioni pagamenti e push :         p3c, 2025-02-10, 10d
-DELIVERABLE - MVP             :crit,    p3d, 2025-02-18, 1d
+DELIVERABLE - MVP             :crit,    p3d, 2025-02-20, 1d
 
 section 4.0 TEST + LANCIO
 Test Unitari + Integrazione   :active,  p4a, 2025-03-02, 5d
